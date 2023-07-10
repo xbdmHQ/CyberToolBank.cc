@@ -10,4 +10,5 @@ I will find a affordable great domain name and leave the source code open source
 
 ### CyberToolBank.cc Old Community
 
-- [Telegram](https://t.me/opsecwikichat)
+- [Old Telegram](https://t.me/opsecwikichat)
+- [New Telegram](https://t.me/CTB_Chat)
