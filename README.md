@@ -9,6 +9,7 @@ If you go their [website](https://cybertoolbank.cc), It will say "Proxy Error: T
 
 ### New Domain & Open-Source
 ![](https://bffr.wtf/r/LQCHLP.jpg?compress=false)
+
 I will find a affordable great domain name and leave the source code open source so people can spread it and contribute to it with pull request for finding new ways of protecting your data during these hard times we are facing right now.
 
 ### CyberToolBank.cc Old Community
